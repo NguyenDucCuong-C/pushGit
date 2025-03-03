@@ -9,13 +9,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SeleniumWebDriver {
 
-    private WebDriver webDriver;
-
-    @BeforeEach
-    void setUp() {
-        WebDriverManager.chromedriver().setup();
-        webDriver = new ChromeDriver();
-    }
+//    private WebDriver webDriver;
+//
+//    @BeforeEach
+//    void setUp() {
+//        WebDriverManager.chromedriver().setup();
+//        webDriver = new ChromeDriver();
+//    }
 
 //
 //    @Test
